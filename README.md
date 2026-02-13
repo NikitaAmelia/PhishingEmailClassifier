@@ -152,4 +152,11 @@ This project is intended for **educational and research purposes only**. It shou
 
 ## 👩‍💻 Author
 
-Developed as a machine learning and cybersecurity learning project.
+Nikita Amelia Valencia  
+Machine Learning & Data Science Enthusiast
+
+---
+
+## 📜 License
+
+This project is for educational and portfolio purposes.
